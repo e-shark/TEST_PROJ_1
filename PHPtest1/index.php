@@ -7,8 +7,7 @@ echo "Hello World Now!"."\n";
 
 $x = new MyClass();
 
-$x->Add(5);
-$x->Add(3);
+$x->Add(7);
 
 echo $x->Get()."\n";
 
