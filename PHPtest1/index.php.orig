@@ -5,8 +5,13 @@ use user\ns1\MyClass;
 
 $x = new MyClass();
 
-$x->Add(7);
+<<<<<<< HEAD
+$x->Add(5);
+$x->Add(3);
 $x->Add(1);
+=======
+$x->Add(7);
+>>>>>>> e9ffdc52693fbbcc54a9b0b04134f8880d945dc0
 
 echo $x->Get()."\n";
 

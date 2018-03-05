@@ -288,6 +288,7 @@
 	],
 	"file_history":
 	[
+		"/D/GIT/TEST_PROJ_1/PHPtest1/Script1.php",
 		"/D/GIT/TEST_PROJ_1/test1.sublime-project",
 		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/controllers/SiteController.php",
 		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/reports/index.php",
@@ -414,12 +415,11 @@
 		"/E/PROGRAMS/OpenServer/domains/vtigercrm/modules/WSAPP/synclib/handlers/VtigerSyncEventHandler.php",
 		"/E/PROGRAMS/OpenServer/domains/vtigercrm/modules/WSAPP/Handlers/vtigerCRMHandler.php",
 		"/E/PROGRAMS/OpenServer/domains/vtigercrm/include/events/VTEntityData.inc",
-		"/E/PROGRAMS/OpenServer/domains/vtigercrm/include/utils/EmailTemplate.php",
-		"/E/PROGRAMS/OpenServer/domains/vtigercrm/modules/Vtiger/models/Module.php"
+		"/E/PROGRAMS/OpenServer/domains/vtigercrm/include/utils/EmailTemplate.php"
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -575,7 +575,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 26.0
+		"height": 27.0
 	},
 	"input":
 	{
@@ -619,7 +619,7 @@
 	"project": "test1.sublime-project",
 	"replace":
 	{
-		"height": 48.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
