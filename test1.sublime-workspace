@@ -1,0 +1,666 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"deni",
+				"denied"
+			],
+			[
+				"gm",
+				"GMarkerIndex"
+			],
+			[
+				"set",
+				"setCenter"
+			],
+			[
+				"clear",
+				"chkbxKlasterUse"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"tiI",
+				"tiId"
+			],
+			[
+				"is_nu",
+				"is_null"
+			],
+			[
+				"rquest",
+				"request"
+			],
+			[
+				"render",
+				"renderpartial"
+			],
+			[
+				"ht",
+				"Html"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"print_",
+				"print_r"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"h",
+				"html	html"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"lfP",
+				"lfPsw2"
+			],
+			[
+				"pf",
+				"pf2"
+			],
+			[
+				"va",
+				"va"
+			],
+			[
+				"v",
+				"va"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"prm",
+				"prmsn"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"s",
+				"_SESSION"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"call",
+				"call_user_method"
+			],
+			[
+				"co",
+				"controller"
+			],
+			[
+				"action",
+				"action_name"
+			],
+			[
+				"mode",
+				"mdoel_file"
+			],
+			[
+				"contr",
+				"Controller_"
+			],
+			[
+				"pas",
+				"password_ok"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"array_s",
+				"array_shift"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"iss",
+				"isset"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"si",
+				"sidebar-left"
+			],
+			[
+				"header",
+				"header-top"
+			],
+			[
+				"margin-to",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"bo",
+				"box-sizing"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"d",
+				"div	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"gotodef",
+				"Go To Definition"
+			],
+			[
+				"goto",
+				"Go To Definition"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"paka",
+				"Package Control: Install Package"
+			],
+			[
+				"proj",
+				"Project: Refresh Folders"
+			],
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"project: ",
+				"Project: Refresh Folders"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 344.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/GIT/TEST_PROJ_1"
+	],
+	"file_history":
+	[
+		"/D/GIT/TEST_PROJ_1/test1.sublime-project",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/controllers/SiteController.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/reports/index.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/models/Tickets.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/common/models/LoginForm.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/site/index.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/tickets/_index.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/controllers/IteraExportApiController.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/models/Report_Ticketslist.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/controllers/TestController.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/test/index.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/vendor/yiisoft/yii2/base/Model.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/site/login.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/controllers/TicketsController.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/controllers/TicketInputController.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/ticket-input/inputform.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/maps/index.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/models/UploadImage.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/models/TicketAction.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/tickets/_docstab.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/vendor/zxbodya/yii2-gallery-manager/GalleryBehavior.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/vendor/zxbodya/yii2-gallery-manager/GalleryManager.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/vendor/zxbodya/yii2-gallery-manager/GalleryManagerAction.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/vendor/zxbodya/yii2-gallery-manager/GalleryImage.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/models/TicketAddData.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/models/Maps_TicketsFilter.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/vendor/zxbodya/yii2-gallery-manager/GalleryManagerAsset.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/vendor/zxbodya/yii2-gallery-manager/views/galleryManager.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/controllers/MapsController.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/models/Report_Titotals.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/models/IteraExpotrApi.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/tickets/index.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/reports/_tableexport.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/layouts/main.php",
+		"/E/PROGRAMS/OpenServer/domains/test1/index.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Border.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/vendor/phpoffice/phpspreadsheet/docs/index.md",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/reports/oosnow.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/reports/titotals1562.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/reports/tilas.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/reports/tipermonth.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/reports/tiperday.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/reports/repfailures.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/models/Report_Repfailures.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/reports/titotals.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/reports/ticketslist.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/config/main.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/reports/_paramsfilter1.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/config/params-local.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/controllers/ReportsController.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/models/Test_ImportDevices.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/models/Report_Tipermonth.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/models/Report_Titotals1562.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/models/_tickets.sql",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/models/TicketAppointFitterAction.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/web/Documents/lifts.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/web/Documents/lifts.txt",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/models/Report_Oos.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/web/css/map.css",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/vendor/kartik-v/yii2-mpdf/Pdf.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/maps/_paramsfilter.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/ticket-input/AddConfirm.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/models/TicketInputForm.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/models/Report_Tilas.php",
+		"/C/Users/didenko/AppData/Local/Temp/Rar$DI00.504/inputform.php",
+		"/C/Users/didenko/AppData/Local/Temp/Rar$DI00.563/inputform.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/common/config/test.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/tickets/view.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/messages/ru-Ru/app.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/models/Product.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/tickets/_uploadtab.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/requirements.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/web/js/TicketForms.js",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/ticket-edit/EditForm.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/controllers/TicketEditController.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/assets/AppAsset.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/assets/TicketForms.js",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/tickets/_sparttab.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/tickets/_view.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/vendor/zxbodya/yii2-gallery-manager/assets/jquery.galleryManager.js",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/tickets/spartadd.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/ticketinput/index.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/ticket-input/index.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/web/index.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/tickets/_viewtab.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/tickets/_spartgrid.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/vendor/conquer/select2/Select2Widget.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/vendor/conquer/select2/Select2MaximizeAsset.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/vendor/conquer/select2/Select2BootstrapAsset.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/vendor/conquer/select2/Select2Asset.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/controllers/TestsController.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/tickets/_testAutoComplate.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/config/main-local.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/tests/TestList.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/tests/_tralala.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/models/tests1.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/views/tests/index.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/actions/actionPrintTest.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/vendor/yiisoft/yii2/base/Object.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/frontend/actions/actionTest2.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/vendor/yiisoft/yii2/web/Controller.php",
+		"/E/PROGRAMS/OpenServer/domains/tickets1/vendor/yiisoft/yii2/web/Application.php",
+		"/D/TEST2/VUE1/index.html",
+		"/E/PROGRAMS/OpenServer/domains/yii2-app-advanced/common/config/main.php",
+		"/E/PROGRAMS/OpenServer/domains/yii2-app-advanced/frontend/views/site/index.php",
+		"/C/Program Files (x86)/Google/Chrome/Application/chrome.exe",
+		"/E/PROGRAMS/OpenServer/domains/vtigercrm/index.php",
+		"/E/PROGRAMS/OpenServer/domains/vtigercrm/vtlib/tools/console.php",
+		"/C/Users/didenko/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/didenko/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/E/PROGRAMS/OpenServer/domains/vtigercrm/vTigerCNS.sublime-project",
+		"/C/Users/didenko/AppData/Roaming/Sublime Text 3/Packages/User/CNS.sublime-build",
+		"/C/Users/didenko/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/C/Users/didenko/AppData/Roaming/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+		"/D/DIDENKO/WORK/CRM/vTiger/DOCs хлам/vtlib_createmodule.php",
+		"/E/PROGRAMS/OpenServer/domains/vtigercrm/includes/http/Request.php",
+		"/E/PROGRAMS/OpenServer/domains/vtigercrm/modules/Mobile/api.php",
+		"/D/DIDENKO/WORK/CRM/vTiger/DOCs хлам/Mynewmodule/Delete.php",
+		"/E/PROGRAMS/OpenServer/domains/vtigercrm/libraries/jquery/jquery.class.min.js",
+		"/E/PROGRAMS/OpenServer/domains/vtigercrm/include/events/VTEventConditionParserParser.php",
+		"/E/PROGRAMS/OpenServer/domains/vtigercrm/include/Zend/Http/Client.php",
+		"/E/PROGRAMS/OpenServer/domains/vtigercrm/include/database/PearDatabase.php",
+		"/E/PROGRAMS/OpenServer/domains/vtigercrm/pkg/vtiger/modules/ConfigEditor/modules/ConfigEditor/Request.php",
+		"/E/PROGRAMS/OpenServer/domains/vtigercrm/modules/WSAPP/synclib/handlers/VtigerSyncEventHandler.php",
+		"/E/PROGRAMS/OpenServer/domains/vtigercrm/modules/WSAPP/Handlers/vtigerCRMHandler.php",
+		"/E/PROGRAMS/OpenServer/domains/vtigercrm/include/events/VTEntityData.inc",
+		"/E/PROGRAMS/OpenServer/domains/vtigercrm/include/utils/EmailTemplate.php",
+		"/E/PROGRAMS/OpenServer/domains/vtigercrm/modules/Vtiger/models/Module.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open files>,E:\\PROGRAMS\\OpenServer\\domains\\SuiteCRM-7.7.8\\metadata"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"load",
+			"getUserOpRights",
+			"return",
+			"getUserOpRights",
+			"date(",
+			"exportLog",
+			"tioriginator_id",
+			"tioriginator",
+			"tiopenedtime",
+			"datefrom",
+			"encod",
+			"date(",
+			"bind",
+			"exe",
+			"delete",
+			"'",
+			"breadcrumbs",
+			"mcOptions",
+			"onclick",
+			"forEach",
+			"userUI1",
+			"MrkCountExecutet",
+			"UI1cnt",
+			"color",
+			"DeleteMarkers",
+			"GetCountTicketsForFacility",
+			"IsFirstTicketForFacility",
+			"chkbxRedrawAutoScale",
+			"VisualizeMarkers",
+			"style",
+			"userUI1",
+			"GetMarkerParamForTickets",
+			"GetCountTicketsForFacility",
+			"MarkersList",
+			"markers",
+			"provider",
+			"GetStreetsList",
+			"actionGetStreetsList",
+			"onSubmi",
+			"str1",
+			"tiiplannedtime",
+			"torou",
+			"addr",
+			"ElevatorSelectUpdate",
+			"$str",
+			"ElevatorSelectUpdate",
+			"onSelectEntrance",
+			"ElevatorSelectUpdate",
+			"tiComment2",
+			"tioriginator_id",
+			"tiEntrance",
+			"fLasNeeded",
+			"tiElevatorSelect",
+			"ExecutantDivUpdate",
+			"onSelectElevator",
+			"divElevatorSelect",
+			"RequestNumber",
+			"tistatustime",
+			"inser",
+			"ElevatorSelectUpdate",
+			"addr4",
+			"insert",
+			"PartListSelect",
+			"ticket",
+			"afile",
+			"Редактирование информации",
+			"apiRoute",
+			"model",
+			"Description",
+			"getGalleryId",
+			"implode",
+			"pkGlue",
+			"getPrimaryKey",
+			"getGalleryId",
+			"getBehavior",
+			"findOne",
+			"addPhoto",
+			"editPhotos",
+			"createEditorElement",
+			"preview",
+			"createEditorElement",
+			"findOne",
+			"primarykey",
+			"getGalleryId",
+			"primaryKey",
+			"owner->",
+			"getPrimaryKey",
+			"tableName",
+			"PrimaryKey",
+			"getPrimaryKey",
+			"apiRoute",
+			"findModel",
+			"model-grid",
+			"spartgrid",
+			"tispartprovider",
+			"dropDownList",
+			"items",
+			"json_dencode",
+			"tistatus",
+			"tilist2",
+			"context",
+			"actionAppoint",
+			"findModel",
+			"run",
+			"Vtiger_Tools_Console_Controller",
+			"&",
+			"&quot;",
+			"&gt;",
+			"&lt;",
+			"<",
+			"&lt;",
+			"Vtiger_WebUI",
+			"side"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"TicketsList",
+			"\"",
+			">",
+			"<"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"project": "test1.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

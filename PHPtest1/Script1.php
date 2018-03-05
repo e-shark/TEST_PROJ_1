@@ -15,6 +15,11 @@ class MyClass
 	{
 		return $this->bublik;
 	}
+
+	public function Say()
+	{
+		echo "Hello from MyClass!\n";
+	}
 }
 
 ?>
