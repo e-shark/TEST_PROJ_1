@@ -3,12 +3,11 @@ namespace user\ns2;
 require("Script1.php");
 use user\ns1\MyClass;
 
-echo "Hello World Now!"."\n";
-
 $x = new MyClass();
 
 $x->Add(5);
 $x->Add(3);
+$x->Add(1);
 
 echo $x->Get()."\n";
 

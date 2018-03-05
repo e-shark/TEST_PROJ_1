@@ -18,7 +18,8 @@ class MyClass
 
 	public function Say()
 	{
-		echo "Hello from MyClass!\n";
+		echo "Hello from MyClass ({$this->bublik})!\n";
+
 	}
 }
 
