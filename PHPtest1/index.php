@@ -10,4 +10,5 @@ $x->Add(21);
 echo $x->Get()."\n";
 
 $x->Say();
+$x->Speak();
 ?>
