@@ -5,8 +5,7 @@ use user\ns1\MyClass;
 
 $x = new MyClass();
 
-$x->Add(7);
-$x->Add(1);
+$x->Add(21);
 
 echo $x->Get()."\n";
 
