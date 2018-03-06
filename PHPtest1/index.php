@@ -11,4 +11,5 @@ echo $x->Get()."\n";
 
 $x->Say();
 $x->Speak();
+echo "Hello";
 ?>
