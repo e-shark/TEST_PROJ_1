@@ -27,6 +27,14 @@ class MyClass
 		$this->Say();
 	}
 
+	public function Speak()
+	{
+		for ($i=1; $i<10; $i++){
+			$this->Add(rand(1,5));
+			$this->Say();
+		}
+	}
+
 }
 
 ?>
